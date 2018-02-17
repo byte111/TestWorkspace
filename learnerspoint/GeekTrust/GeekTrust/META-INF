@@ -1,0 +1,16 @@
+Program can be run from the Driver class. Once run, we will get the below input: 
+
+================================================
+ 1.   Who is the ruler of Southeros?
+ 2.   Allies of King Shan? 
+ 3.   Messages to kingdoms from King Shan
+ 4.   Exit 
+================================================
+
+Type 1 and hit enter to see  : Who is the ruler of Southeros?
+Type 2 and hit enter to see  : Allies of King Shan 
+Type 3 and hit enter to send encrypted messages to kingdoms  : Messages to kingdoms from King Shan
+		Enter message and hit enter
+		Continue to [3] -> [Enter] -> [Send Message] till you want to send message
+		
+Type 4 to exit from the program
